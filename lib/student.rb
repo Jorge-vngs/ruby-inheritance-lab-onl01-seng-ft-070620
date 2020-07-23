@@ -8,6 +8,4 @@ class Student < User
   def learn(string)
     knowledge << string
   end
-endclass Student 
-
 end
